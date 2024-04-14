@@ -1,5 +1,5 @@
 # Qr-Code-Generator
- <b>Created by samarth joshi</b> <br>
+ <b>Created by Samarth Joshi</b> <br>
  
 1. Importing Necessary Libraries : The script begins by importing the required libraries. 
    - `tkinter` is imported for creating the graphical user interface (GUI).
