@@ -6,7 +6,7 @@
    - `qrcode` is imported for generating QR codes.
    - `PIL` (Python Imaging Library), known as `Pillow`, is imported for handling images.
 
-2. Defining `generate_qr_code` Function**: This function is defined to generate a QR code based on user input. Here's a step-by-step breakdown of what it does:
+2. Defining `generate_qr_code` Function: This function is defined to generate a QR code based on user input. Here's a step-by-step breakdown of what it does:
    - Getting User Input: It retrieves the text to be encoded from an entry widget.
    - Creating QR Code Object: It creates a QR code object with specific parameters such as version, box size, and border.
    - Adding Text and Generating QR Code: The function adds the user input text to the QR code object and generates the QR code.
